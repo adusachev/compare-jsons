@@ -4,7 +4,7 @@ A script for fast visual comparsion of 2 json files.
 
 Сompares files line by line.
 
-Automatically normalizes JSON data before comparing.
+Automatically normalizes JSON data and sort keys before comparing.
 
 
 ## Preparation
